@@ -10,6 +10,7 @@ namespace ConsoleApplication21
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("tipo code");
         }
     }
 }
